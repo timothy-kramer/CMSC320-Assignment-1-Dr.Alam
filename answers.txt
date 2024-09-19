@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: we could be using git so that we can push and send files from our local 
+laptops to our repositories
