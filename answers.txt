@@ -1,4 +1,11 @@
+
 Q1: Why might be consider using git?
 
 Answer: we could be using git so that we can push and send files from our local 
 laptops to our repositories
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to alotof fields, I think applying it to sports 
+would be very helpful. We can anaylze trends and predict opponents plays, or see which plays work well against certain teams
+ q2
