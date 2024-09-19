@@ -8,4 +8,9 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science could be applied to alotof fields, I think applying it to sports 
 would be very helpful. We can anaylze trends and predict opponents plays, or see which plays work well against certain teams
- q2
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: merging just combines the two branches and keeps the time order they commited. rebasing just copies the
+history of one into the other and makes it a part of the the history, rewriting it rather then combining it
