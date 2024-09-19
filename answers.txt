@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to alotof fields, I think applying it to sports 
+would be very helpful. We can anaylze trends and predict opponents plays, or see which plays work well against certain teams
